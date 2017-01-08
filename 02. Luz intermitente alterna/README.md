@@ -1,6 +1,6 @@
-# 01. Luz intermitente
+# 02. Luz intermitente alterna
 
-En esta primera práctica vamos a realizar un sencillo proyecto consistente en un LED que parpadea continuamente con una frecuencia de 1 segundo.
+En esta práctica vamos a crear un intermitente alterno con 2 diodos Led que cambian con una frecuencia de 1 segundo.
 
 1.	[Materiales](#materiales)
 2.	[Diagrama de flujo](#diagrama-de-flujo)
@@ -22,9 +22,9 @@ En esta primera práctica vamos a realizar un sencillo proyecto consistente en u
 Para llevar a cabo la práctica, vamos a necesitar los siguientes materiales:
 - 1 Placa de Arduino UNO
 - 1 Protoboard
-- 2 latiguillos
-- 1 Diodo Led
-- 1 Resistencia
+- 3 latiguillos
+- 2 Diodo Led
+- 2 Resistencia
 
 
 
@@ -122,11 +122,10 @@ Al igual que en el apartado anterior y fijándonos en el diagrama de flujo, prog
 
 ```
 /**
- * Luz intermitente
+ * Luz intermitente alterna
  * 
- * En esta primera práctica vamos a realizar un sencillo proyecto 
- * consistente en un LED que parpadea continuamente con una frecuencia 
- * de 1 segundo.
+ * En esta práctica vamos a crear un intermitente alterno con 2 diodos Led 
+ * que cambian con una frecuencia de 1 segundo.
  * 
  * @author Miguel Ángel Abellán
  * @company El Cable Amarillo
@@ -137,22 +136,29 @@ Al igual que en el apartado anterior y fijándonos en el diagrama de flujo, prog
  */
 
 // Definimos las variables de tipo entero
-int ledPin = 13;
+int ledPinRojo = 13;
+int ledPinVerde = 12;
 int delayTime = 1000;
 
 //Este código se ejecuta la primera vez
 void setup() {
-  // Configuramos el pin en modo salida
-  pinMode(ledPin, OUTPUT);
+  // Configuramos los pines en modo salida
+  pinMode(ledPinRojo, OUTPUT);
+  pinMode(ledPinVerde, OUTPUT);
+  // Inicializamos los pines a un valor BAJO
+  digitalWrite(ledPinRojo, LOW);
+  digitalWrite(ledPinVerde, LOW);
 }
 
 //Este código se ejecuta en bucle repetidamente
 void loop() {
-  // Escribimos en el pin el valor ALTO y esperamos
-  digitalWrite(ledPin, HIGH);
+  // Escribimos los valores ALTO y BAJO e los pines y esperamos
+  digitalWrite(ledPinRojo, HIGH);
+  digitalWrite(ledPinVerde, LOW);
   delay(delayTime);
-  // Escribimos en el pin el valor BAJO y esperamos 
-  digitalWrite(ledPin, LOW);
+  // Escribimos los valores ALTO y BAJO e los pines y esperamos
+  digitalWrite(ledPinRojo, LOW);
+  digitalWrite(ledPinVerde, HIGH);
   delay(delayTime);
 }
 ```
