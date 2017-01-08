@@ -20,6 +20,7 @@ En este apartado encontrarás diferentes prácticas de programación y electrón
 
 
 El proyecto contiene las siguientes prácticas:
+
 1. [Luz intermitente](01. Luz intermitente/)
 2. [Aviso para invidentes](#)
 3. [Semáforo](#)
