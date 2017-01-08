@@ -69,9 +69,12 @@ Para evitar que se puedan dañar tendremos que colocarle una resistencia al circ
 
 ```
 
-La tensión en el Led tiene que ser 2,1V. Si el pin de Arduino da 5V, el tensión que debe circular por la resistencia es 5V – 2,1V = 2,9V.
+La tensión en el Led tiene que ser 2,1V. Si el pin de Arduino da 5V, 
+el tensión que debe circular por la resistencia es 5V – 2,1V = 2,9V.
 
-Por otro lado, la intensidad que circula por el Led es de 20mA. A diferencia de la tensión, la intensidad se mantiene constante durante el circuito.
+Por otro lado, la intensidad que circula por el Led es de 20mA. A 
+diferencia de la tensión, la intensidad se mantiene constante durante 
+el circuito.
 
 V = 2,9V
 I = 20mA
@@ -80,7 +83,8 @@ V = I x R ; R = V / I
 
 R = 2,9V / 0,02A = 145Ω 
 
-Redondeamos el resultado obtenido a un valor de resistencia conocido (siempre por encima de su resistencia ideal).
+Redondeamos el resultado obtenido a un valor de resistencia conocido 
+(siempre por encima de su resistencia ideal).
 
 ```
 
