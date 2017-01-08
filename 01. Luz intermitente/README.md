@@ -66,15 +66,12 @@ Como se puede observar en la tabla anterior, los Led que estamos utilizando para
 
 Para evitar que se puedan dañar tendremos que colocarle una resistencia al circuito. Para ello, vamos a calcular el valor de la resistencia siguiendo la *Ley de Ohm* y teniendo en cuenta los datos de la tabla anterior.
 
+La tensión en el Led tiene que ser 2,1V. Si el pin de Arduino da 5V, el tensión que debe circular por la resistencia es 5V – 2,1V = 2,9V. 
+
+Por otro lado, la intensidad que circula por el Led es de 20mA. A diferencia de la tensión, la intensidad se mantiene constante durante el circuito.
+
 
 ```
-
-La tensión en el Led tiene que ser 2,1V. Si el pin de Arduino da 5V, 
-el tensión que debe circular por la resistencia es 5V – 2,1V = 2,9V.
-
-Por otro lado, la intensidad que circula por el Led es de 20mA. A 
-diferencia de la tensión, la intensidad se mantiene constante durante 
-el circuito.
 
 V = 2,9V
 I = 20mA
@@ -83,12 +80,9 @@ V = I x R ; R = V / I
 
 R = 2,9V / 0,02A = 145Ω 
 
-Redondeamos el resultado obtenido a un valor de resistencia conocido 
-(siempre por encima de su resistencia ideal).
-
 ```
 
-Redondeando el resultado obtenemos una resistencia de 220Ω, que mirando en la tabla de resistencias corresponde a la resistencia de color *rojo-rojo-marrón*.
+Redondeamos el resultado obtenido a un valor de resistencia conocido (siempre por encima de su resistencia ideal), obteniendo una resistencia de 220Ω, que mirando en la tabla de resistencias corresponde a la resistencia de color *rojo-rojo-marrón*.
 
 El siguiente paso será conectar los diferentes componentes sobre la placa de prototipado siguiendo el esquema eléctrico.
 
