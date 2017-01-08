@@ -175,7 +175,7 @@ void loop() {
 
 ### Video resumen
 
-[![Video resumen](https://i.ytimg.com/vi_webp/aa5F_zukYO0/maxresdefault.webp)](https://youtu.be/aa5F_zukYO0)
+[![Video resumen](https://i.ytimg.com/vi_webp/tuakmRoCOJA/maxresdefault.webp)](https://youtu.be/tuakmRoCOJA)
 
 
 
