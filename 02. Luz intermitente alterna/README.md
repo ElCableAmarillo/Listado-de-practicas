@@ -1,5 +1,7 @@
 # 02. Luz intermitente alterna
 
+![Animación](Animación.gif)
+
 En esta práctica vamos a crear un intermitente alterno con 2 diodos Led que cambian con una frecuencia de 1 segundo.
 
 1.	[Materiales](#materiales)
