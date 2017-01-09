@@ -1,5 +1,7 @@
 # 01. Luz intermitente
 
+![Animación](Animación.gif)
+
 En esta primera práctica vamos a realizar un sencillo proyecto consistente en un LED que parpadea continuamente con una frecuencia de 1 segundo.
 
 1.	[Materiales](#materiales)
