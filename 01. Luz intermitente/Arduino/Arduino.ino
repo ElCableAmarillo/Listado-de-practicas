@@ -1,8 +1,9 @@
 /**
- * Luz intermitente alterna
+ * Luz intermitente
  * 
- * En esta práctica vamos a crear un intermitente alterno con 2 diodos Led 
- * que cambian con una frecuencia de 1 segundo.
+ * En esta primera práctica vamos a realizar un sencillo proyecto 
+ * consistente en un LED que parpadea continuamente con una frecuencia 
+ * de 1 segundo.
  * 
  * @author Miguel Ángel Abellán
  * @company El Cable Amarillo
@@ -13,28 +14,21 @@
  */
 
 // Definimos las variables de tipo entero
-int ledPinRojo = 13;
-int ledPinVerde = 12;
+int ledPin = 13;
 int delayTime = 1000;
 
 //Este código se ejecuta la primera vez
 void setup() {
-  // Configuramos los pines en modo salida
-  pinMode(ledPinRojo, OUTPUT);
-  pinMode(ledPinVerde, OUTPUT);
-  // Inicializamos los pines a un valor BAJO
-  digitalWrite(ledPinRojo, LOW);
-  digitalWrite(ledPinVerde, LOW);
+  // Configuramos el pin en modo salida
+  pinMode(ledPin, OUTPUT);
 }
 
 //Este código se ejecuta en bucle repetidamente
 void loop() {
-  // Escribimos los valores ALTO y BAJO e los pines y esperamos
-  digitalWrite(ledPinRojo, HIGH);
-  digitalWrite(ledPinVerde, LOW);
+  // Escribimos en el pin el valor ALTO y esperamos
+  digitalWrite(ledPin, HIGH);
   delay(delayTime);
-  // Escribimos los valores ALTO y BAJO e los pines y esperamos
-  digitalWrite(ledPinRojo, LOW);
-  digitalWrite(ledPinVerde, HIGH);
+  // Escribimos en el pin el valor BAJO y esperamos 
+  digitalWrite(ledPin, LOW);
   delay(delayTime);
 }
