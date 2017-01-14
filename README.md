@@ -23,8 +23,8 @@ El proyecto contiene las siguientes prácticas:
 
 1. [Luz intermitente](01. Luz intermitente/)
 2. [Luz intermitente alterna](02. Luz intermitente alterna/)
-3. [Aviso para invidentes](#)
-4. [Semáforo](#)
+3. [Semáforo simple](03. Semáforo simple/)
+4. [Aviso para invidentes](#)
 5. [Semáforo con aviso para invidentes](#)
 6. [Semáforo con pulsador](#)
 7. [Cruce de semáforos](#)
