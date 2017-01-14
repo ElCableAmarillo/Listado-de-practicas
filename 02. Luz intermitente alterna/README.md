@@ -13,9 +13,7 @@ En esta práctica vamos a crear un intermitente alterno con 2 diodos Led que cam
 
 
 
-<br />
-=============
-<br />
+***
 
 
 
@@ -84,7 +82,7 @@ R = 2,9V / 0,02A = 145Ω
 
 ```
 
-Redondeamos el resultado obtenido a un valor de resistencia conocido (siempre por encima de su resistencia ideal), obteniendo una resistencia de 220Ω, que mirando en la tabla de resistencias corresponde a la resistencia de color *rojo-rojo-marrón*.
+Redondeamos el resultado obtenido a un valor de resistencia (siempre por encima de su resistencia ideal), obteniendo una resistencia de 220Ω, que mirando en la tabla de resistencias corresponde a la resistencia de color *rojo-rojo-marrón*.
 
 El siguiente paso será conectar los diferentes componentes sobre la placa de prototipado siguiendo el esquema eléctrico.
 
@@ -177,7 +175,7 @@ void loop() {
 
 ### Video resumen
 
-[![Video resumen](https://i.ytimg.com/vi_webp/tuakmRoCOJA/maxresdefault.webp)](https://youtu.be/tuakmRoCOJA)
+[![Video resumen](https://i.ytimg.com/vi_webp/T6gmndUOZnY/maxresdefault.webp)](https://youtu.be/T6gmndUOZnY)
 
 
 
