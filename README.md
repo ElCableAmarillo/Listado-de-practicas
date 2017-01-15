@@ -21,9 +21,9 @@ En este apartado encontrarás diferentes prácticas de programación y electrón
 
 El proyecto contiene las siguientes prácticas:
 
-1. [Luz intermitente](01. Luz intermitente/)
-2. [Luz intermitente alterna](02. Luz intermitente alterna/)
-3. [Semáforo simple](03. Semáforo simple/)
+1. [Luz intermitente](Luz intermitente/)
+2. [Luz intermitente alterna](Luz intermitente alterna/)
+3. [Semáforo simple](Semáforo simple/)
 4. [Aviso para invidentes](#)
 5. [Semáforo con aviso para invidentes](#)
 6. [Semáforo con pulsador](#)
