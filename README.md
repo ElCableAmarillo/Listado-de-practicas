@@ -24,22 +24,6 @@ El proyecto contiene las siguientes prácticas:
 1. [Luz intermitente](Luz intermitente/)
 2. [Luz intermitente alterna](Luz intermitente alterna/)
 3. [Semáforo simple](Semáforo simple/)
-4. [Aviso para invidentes](#)
-5. [Semáforo con aviso para invidentes](#)
-6. [Semáforo con pulsador](#)
-7. [Cruce de semáforos](#)
-8. [Encendido nocturno (LDR)](#)
-9. [Cadena de montaje](#)
-10. [Ventilador automático](#)
-11. [Led RGB](#)
-12. [Efecto arcoiris](#)
-13. [Detector de objetos](#)
-14. [Movimiento de un servomotor](#)
-15. [Servomotor con potenciómetro](#)
-16. [Medidor de distancias](#)
-17. [Conexión de display LCD](#)
-18. [Control de leds con mando](#)
-19. [Motor paso a paso](#)
 
 
 

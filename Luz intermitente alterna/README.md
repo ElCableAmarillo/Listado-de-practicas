@@ -1,4 +1,4 @@
-# 02. Luz intermitente alterna
+# Luz intermitente alterna
 
 ![Animación](Animación.gif)
 

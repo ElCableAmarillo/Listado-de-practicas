@@ -1,4 +1,4 @@
-# 01. Luz intermitente
+# Luz intermitente
 
 ![Animación](Animación.gif)
 

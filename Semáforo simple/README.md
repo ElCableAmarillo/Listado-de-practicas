@@ -1,4 +1,4 @@
-# 03. Semáforo simple
+# Semáforo simple
 
 ![Animación](Animación.gif)
 
