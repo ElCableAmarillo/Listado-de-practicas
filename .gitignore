@@ -1,5 +1,11 @@
 /#Private/*
 
+## Carpetas de prácticas
+Luz intermitente alterna/*
+Semáforo simple/*
+Led RGB/*
+Código Morse SOS/*
+
 ### macOS ###
 *.DS_Store
 .AppleDouble
