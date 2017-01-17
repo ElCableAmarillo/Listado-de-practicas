@@ -21,11 +21,12 @@ En este apartado encontrarás diferentes prácticas de programación y electrón
 
 El proyecto contiene las siguientes prácticas ordenadas por complejidad:
 
-- Prácticas con salidas digitales y analógicas
+- Prácticas con **salidas** digitales y analógicas
     1. [Luz intermitente](Luz intermitente/)
     2. [Luz intermitente alterna](Luz intermitente alterna/)
     3. [Semáforo simple](Semáforo simple/)
     4. [Led RGB](Led RGB/)
+    5. [Código Morse SOS](Código Morse SOS/)
 
 
 
