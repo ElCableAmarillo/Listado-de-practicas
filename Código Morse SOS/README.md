@@ -2,10 +2,7 @@
 
 ![Animación](Animación.gif)
 
-<audio controls="controls">
-  <source type="audio/ogg" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/SOS_morse_code.ogg"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
+[Escuchar el audio del Código Morse SOS](https://upload.wikimedia.org/wikipedia/commons/f/f6/SOS_morse_code.ogg)
 
 En esta práctica te proponemos que programes el código fuente para reproducir el sonido de SOS del Código Morse utilizando un zumbador.
 
