@@ -24,10 +24,11 @@ El proyecto contiene las siguientes prácticas ordenadas por complejidad:
 - Prácticas con **salidas** digitales y analógicas
     1. [Luz intermitente](Luz intermitente/)
     2. [Luz intermitente alterna](Luz intermitente alterna/)
-    3. [Semáforo simple](Semáforo simple/)
-    4. [Led RGB](Led RGB/)
-    5. [Código Morse SOS](Código Morse SOS/)
-    6. [Movimiento de un servomotor](Movimiento de un servomotor/)
+    3. [Led RGB](Led RGB/)
+    4. [Semáforo simple](Semáforo simple/)
+    5. [Semáforo para invidentes](Semáforo para invidentes/)
+    6. [Código Morse SOS](Código Morse SOS/)
+    7. [Movimiento de un servomotor](Movimiento de un servomotor/)
 
 
 
