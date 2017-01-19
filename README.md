@@ -27,6 +27,7 @@ El proyecto contiene las siguientes prácticas ordenadas por complejidad:
     3. [Semáforo simple](Semáforo simple/)
     4. [Led RGB](Led RGB/)
     5. [Código Morse SOS](Código Morse SOS/)
+    6. [Movimiento de un servomotor](Movimiento de un servomotor/)
 
 
 
