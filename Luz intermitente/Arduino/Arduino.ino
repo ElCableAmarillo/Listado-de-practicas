@@ -1,9 +1,8 @@
 /**
  * Luz intermitente
  * 
- * En esta primera práctica vamos a realizar un sencillo proyecto 
- * consistente en un LED que parpadea continuamente con una frecuencia 
- * de 1 segundo.
+ * En esta práctica se va a construir y programar un diodo Led que parpadea
+ * continuamente con una frecuencia de 1 segundo.
  * 
  * @author Miguel Ángel Abellán
  * @company El Cable Amarillo
@@ -13,7 +12,7 @@
  * la que regula la obra original.)
  */
 
-// Definimos las variables de tipo entero
+// Se definen las variables de tipo entero
 int ledPin = 13;
 int delayTime = 1000;
 
@@ -25,10 +24,11 @@ void setup() {
 
 //Este código se ejecuta en bucle repetidamente
 void loop() {
-  // Escribimos en el pin el valor ALTO y esperamos
+  // Se enciende el led
   digitalWrite(ledPin, HIGH);
   delay(delayTime);
-  // Escribimos en el pin el valor BAJO y esperamos 
+  // Se apaga el led
   digitalWrite(ledPin, LOW);
+  // Esperamos
   delay(delayTime);
 }
