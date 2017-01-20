@@ -19,18 +19,30 @@ En este apartado encontrarás diferentes prácticas de programación y electrón
 - Video resumen
 
 
-El proyecto contiene las siguientes prácticas ordenadas por complejidad:
+El proyecto contiene las siguientes prácticas ordenadas según complejidad (de menor a mayor):
 
-- Prácticas con **salidas** digitales y analógicas
+- Prácticas con **salidas digitales**
     1. [Luz intermitente](Luz intermitente/)
     2. [Luz intermitente alterna](Luz intermitente alterna/)
-    3. [Led RGB](Led RGB/)
-    4. [Semáforo simple](Semáforo simple/)
-    5. [Semáforo para invidentes](Semáforo para invidentes/)
-    6. [Código Morse SOS](Código Morse SOS/)
-    7. [Movimiento de un servomotor](Movimiento de un servomotor/)
+    3. [Semáforo simple](Semáforo simple/)
+    4. [Semáforo para invidentes](Semáforo para invidentes/)
+    5. [Código Morse SOS](Código Morse SOS/)
+    
+- Prácticas con **salidas analógicas**
+    1. [Led RGB](Led RGB/)
+    2. [Movimiento de un servomotor](Movimiento de un servomotor/)
 
+- Prácticas con **entradas digitales**
 
+- Prácticas con **entradas analógicas**
+
+<br />
+
+Por otro lado se proponen las siguientes prácticas para realizar en el aula
+
+- **Propuestas** de proyectos para presentar
+    1. [Cruce de semáforos completo](Cruce de semáforos completo/)
+    2. [Conversor decimal a binario](Conversor decimal a binario/)
 
 ***
 
