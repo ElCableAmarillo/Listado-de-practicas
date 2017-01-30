@@ -7,9 +7,10 @@ En esta práctica se va a construir y a programar un diodo Led que parpadea cont
 1.	[Materiales](#materiales)
 2.	[Diagrama de flujo](#diagrama-de-flujo)
 3.	[Esquema eléctrico](#esquema-eléctrico)
-4.	[Programación en S4A](#programación-en-s4a)
-5.	[Programación en Arduino](#programación-en-arduino)
-6.  [Video resumen](#video-resumen)
+4.	[Programación en mBlock](#programación-en-mblock)
+5.	[Programación en S4A](#programación-en-s4a)
+6.	[Programación en Arduino](#programación-en-arduino)
+7.  [Video resumen](#video-resumen)
 
 
 
@@ -97,6 +98,24 @@ El siguiente paso será conectar los diferentes componentes sobre la placa de pr
 
 
 
+### Programación en mBlock
+
+Fijándonos en el diagrama de flujo programamos la práctica mediante lenguaje de programación por bloques mBlock. 
+
+Podrás observar el gran parecido que se tiene con el diagrama de flujo.
+
+![Programación en mBlock](Programación mBlock.png)
+
+[Descarga el código para mBlock](mBlock.sb2)
+
+
+
+<br />
+=============
+<br />
+
+
+
 ### Programación en S4A
 
 Fijándonos en el diagrama de flujo programamos la práctica mediante lenguaje de programación por bloques S4A. 
@@ -112,6 +131,7 @@ Podrás observar el gran parecido que se tiene con el diagrama de flujo.
 <br />
 =============
 <br />
+
 
 
 
