@@ -18,10 +18,10 @@ En este apartado encontrarás diferentes prácticas de programación y electrón
     4. [Semáforo para invidentes](Semáforo para invidentes/)
     
 - Prácticas utilizando **salidas analógicas**
-    1. Próximamente
-    2. Próximamente
-    3. Próximamente
-    4. Próximamente
+    1. Movimiento de un servomotor
+    2. Led RGB
+    3. Luces de navidad
+    4. La Guerra de las Galaxias
 
 - Prácticas utilizando **entradas digitales**
     1. Próximamente
