@@ -15,7 +15,7 @@ En este apartado encontrarás diferentes prácticas de programación y electrón
     1. [Luz intermitente](Luz intermitente/)
     2. [Luz intermitente alterna](Luz intermitente alterna/)
     3. [Semáforo simple](Semáforo simple/)
-    4. Semáforo para invidentes
+    4. [Semáforo para invidentes](Semáforo para invidentes/)
     
 - Prácticas utilizando **salidas analógicas**
     1. Próximamente
