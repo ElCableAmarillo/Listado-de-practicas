@@ -24,10 +24,10 @@ En este apartado encontrarás diferentes prácticas de programación y electrón
     4. La Guerra de las Galaxias
 
 - Prácticas utilizando **entradas digitales**
-    1. Próximamente
-    2. Próximamente
-    3. Próximamente
-    4. Próximamente
+    1. Medidor de distancias
+    2. Detector de aparcamiento
+    3. Pulsador simple
+    4. Interruptor de escalera
 
 - Prácticas utilizando **entradas analógicas**
     1. Próximamente
