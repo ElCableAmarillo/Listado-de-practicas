@@ -47,6 +47,10 @@ A continuación, mostramos las prácticas propuestas para realizar por los docen
 - Contador de posiciones utilizando un servo (contador con diodos Led)
 - Frecuencias aleatorias en zumbador y diodo Led blanco
 - Luces de feria (utilizando al menos 9 diodos Led)
+- Cambio de colores del RGB (mediante sensor de ultrasonidos)
+- Activar movimiento del servomotor mediante interruptor
+- Distancias mediante diodos led (sensor ultrasonido)
+- Simulación de diodos Led con diodo RGB
 
 ***
 
