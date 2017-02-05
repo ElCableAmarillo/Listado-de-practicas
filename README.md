@@ -30,7 +30,7 @@ En este apartado encontrarás diferentes prácticas de programación y electrón
     4. Interruptor de escalera
 
 - Prácticas utilizando **entradas analógicas**
-    1. Próximamente
+    1. Encendido nocturno
     2. Próximamente
     3. Próximamente
     4. Próximamente
@@ -39,9 +39,10 @@ En este apartado encontrarás diferentes prácticas de programación y electrón
 
 A continuación, mostramos las prácticas propuestas para realizar por los docentes del programa educativo El Cable Amarillo (las cuales aparecerán reflejadas al finalizar la formación presencial a finales de Abril de 2017).
 
-- Cruce de semáforos completo (cruce más semáforo para invidentes)
-- Código Morse SOS (utilizando el sumbador)
-- Conversor decimal a binario (dado un número representarlo en binario mediante leds)
+- Cruce de semáforo completo (con aviso para invidentes)
+- Efecto de luces del coche fantástico (utilizando al menos 7 leds)
+- Código Morse SOS (utilizando led o zumbador)
+- Conversor decimal a binario (dado un número representarlo con leds)
 
 ***
 
