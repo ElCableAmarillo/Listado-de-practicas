@@ -19,7 +19,7 @@ En este apartado encontrarás diferentes prácticas de programación y electrón
     
 - Prácticas utilizando **salidas analógicas**
     1. [Movimiento de un servomotor](Movimiento de un servomotor/)
-    2. Led RGB
+    2. [Led RGB](Led RGB/)
     3. Luces de navidad
     4. La Guerra de las Galaxias
 
