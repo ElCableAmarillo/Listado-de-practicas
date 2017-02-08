@@ -21,7 +21,7 @@ Servo servomotor;
 //Este código se ejecuta la primera vez
 void setup() {
   // Configuramos los pines en modo salida
-  servomotor.attach(8);
+  servomotor.attach(9);
 }
 
 //Este código se ejecuta en bucle repetidamente

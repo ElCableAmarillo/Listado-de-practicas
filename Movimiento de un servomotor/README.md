@@ -98,6 +98,8 @@ Podrás observar el gran parecido que se tiene con el diagrama de flujo.
 
 Fijándonos en el diagrama de flujo programamos la práctica mediante lenguaje de programación por bloques S4A. 
 
+Hay que tener en cuenta que en S4A se toman las salidas del servomotor en el pin 8, 4 ó 7.
+
 Podrás observar el gran parecido que se tiene con el diagrama de flujo.
 
 ![Programación en S4A](Programación S4A.png)
@@ -140,7 +142,7 @@ Servo servomotor;
 //Este código se ejecuta la primera vez
 void setup() {
   // Configuramos los pines en modo salida
-  servomotor.attach(8);
+  servomotor.attach(9);
 }
 
 //Este código se ejecuta en bucle repetidamente
