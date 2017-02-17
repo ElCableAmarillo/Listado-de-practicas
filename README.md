@@ -24,13 +24,13 @@ En este apartado encontrarás diferentes prácticas de programación y electrón
     4. [La Guerra de las Galaxias](La Guerra de las Galaxias/)
 
 - Prácticas utilizando **entradas digitales**
-    1. Pulsador simple
+    1. [Pulsador simple](Pulsador simple/)
     2. Interruptor de escalera
     3. Medidor de distancias
     4. Detector de aparcamiento
 
 - Prácticas utilizando **entradas analógicas**
-    1. Encendido nocturno
+    1. Próximamente
     2. Próximamente
     3. Próximamente
     4. Próximamente
