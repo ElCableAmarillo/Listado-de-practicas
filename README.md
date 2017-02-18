@@ -25,7 +25,7 @@ En este apartado encontrarás diferentes prácticas de programación y electrón
 
 - Prácticas utilizando **entradas digitales**
     1. [Pulsador simple](Pulsador simple/)
-    2. Interruptor de escalera
+    2. [Interruptor de escalera](Interruptor de escalera/)
     3. Medidor de distancias
     4. Detector de aparcamiento
 
