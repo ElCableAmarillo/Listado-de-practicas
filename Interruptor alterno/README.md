@@ -1,4 +1,4 @@
-# Interruptor de escalera
+# Interruptor alterno
 
 ![Animación](Animación.gif)
 
@@ -134,7 +134,7 @@ Al igual que en el apartado anterior y fijándonos en el diagrama de flujo, prog
 
 ```
 /**
- * Interruptor de escalera
+ * Interruptor alterno
  * 
  * En esta práctica vamos a programar un interruptor de escalera para 
  * encender un led en un momento dado.

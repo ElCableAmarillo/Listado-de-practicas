@@ -1,5 +1,5 @@
 /**
- * Interruptor de escalera
+ * Interruptor alterno
  *
  * En esta práctica vamos a programar un interruptor de escalera para
  * encender un led en un momento dado.
