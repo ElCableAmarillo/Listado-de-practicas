@@ -9,6 +9,8 @@
 
 
 
+### Prácticas resueltas del curso
+
 En este apartado encontrarás diferentes prácticas de programación y electrónica para utilizar en el aula de tu centro. Dentro de cada práctica encontrarás el material necesario para llevarla a cabo con tus alumnos. El proyecto contiene las siguientes prácticas ordenadas según complejidad (de menor a mayor):
 
 - Prácticas utilizando **salidas digitales**
@@ -35,7 +37,15 @@ En este apartado encontrarás diferentes prácticas de programación y electrón
     3. Próximamente
     4. Próximamente
 
+
+
 <br />
+=============
+<br />
+
+
+
+### Prácticas propuestas a los docentes
 
 A continuación, mostramos las prácticas propuestas para realizar por los docentes del programa educativo El Cable Amarillo (las cuales aparecerán reflejadas al finalizar la formación presencial a finales de Abril de 2017).
 
