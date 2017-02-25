@@ -15,7 +15,7 @@ En este apartado encontrarás prácticas de iniciación a la programación utili
 - Prácticas utilizando **salidas digitales y analógicas**
     1. [Detectando colores](Detectando colores/)
     2. [Detectando colores con RGB](Detectando colores con RGB/)
-    3. Juego de Arkanoid
+    3. [Juego de Arkanoid](Juego de Arkanoid/)
     4. Brújula con Servo
 
 
