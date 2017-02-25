@@ -13,7 +13,7 @@
 En este apartado encontrarás prácticas de iniciación a la programación utilizando el **lenguaje de programación por bloques con mBlock**. 
 
 - Prácticas utilizando **salidas digitales y analógicas**
-    1. Detectando colores
+    1. [Detectando colores](Detectando colores/)
     2. Detectando colores con mBlock
     3. Juego de Arkanoid
     4. Brújula con Servo
