@@ -10,9 +10,9 @@
 
 ### Prácticas de iniciación a la programación con mBlock
 
-En este apartado encontrarás prácticas de iniciación a la programación utilizando el lenguaje de programación por bloques con mBlock. 
+En este apartado encontrarás prácticas de iniciación a la programación utilizando el **lenguaje de programación por bloques con mBlock**. 
 
-- Prácticas utilizando **mBlock**
+- Prácticas utilizando **salidas digitales y analógicas**
     1. Detectando colores
     2. Detectando colores con mBlock
     3. Juego de Arkanoid
@@ -27,7 +27,7 @@ En este apartado encontrarás prácticas de iniciación a la programación utili
 
 ### Prácticas de programación y electrónica resueltas
 
-En este apartado encontrarás diferentes prácticas de programación y electrónica para utilizar en el aula de tu centro. Dentro de cada práctica encontrarás el material necesario para llevarla a cabo con tus alumnos. El proyecto contiene las siguientes prácticas ordenadas según complejidad (de menor a mayor):
+En este apartado encontrarás diferentes prácticas de **programación y electrónica** para utilizar en el aula de tu centro. Dentro de cada práctica encontrarás el material necesario para llevarla a cabo con tus alumnos. El proyecto contiene las siguientes prácticas ordenadas según complejidad (de menor a mayor):
 
 - Prácticas utilizando **salidas digitales**
     1. [Luz intermitente](Luz intermitente/)
