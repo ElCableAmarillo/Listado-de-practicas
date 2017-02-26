@@ -48,8 +48,8 @@ En este apartado encontrarás diferentes prácticas de **programación y electr�
     4. Detector de aparcamiento
 
 - Prácticas utilizando **entradas analógicas**
-    1. Encendido nocturno
-    2. Led RGB crepuscular
+    1. Próximamente
+    2. Próximamente
     3. Próximamente
     4. Próximamente
 
