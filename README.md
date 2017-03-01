@@ -42,9 +42,9 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     4. [La Guerra de las Galaxias](Salidas analógicas/La Guerra de las Galaxias/)
 
 - Prácticas utilizando **entradas digitales**
-    1. [Pulsador simple](Pulsador simple/)
-    2. [Interruptor alterno](Interruptor alterno/)
-    3. [Medidor de distancias](Medidor de distancias/)
+    1. [Pulsador simple](Entradas digitales/Pulsador simple/)
+    2. [Interruptor alterno](Entradas digitales/Interruptor alterno/)
+    3. [Medidor de distancias](Entradas digitales/Medidor de distancias/)
     4. Detector de aparcamiento
 
 - Prácticas utilizando **entradas analógicas**
