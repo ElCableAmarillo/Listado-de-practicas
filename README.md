@@ -45,7 +45,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     1. [Pulsador simple](Entradas digitales/Pulsador simple/)
     2. [Interruptor alterno](Entradas digitales/Interruptor alterno/)
     3. [Medidor de distancias](Entradas digitales/Medidor de distancias/)
-    4. [Detector de aparcamiento](Detector de aparcamiento/)
+    4. [Detector de aparcamiento](Entradas digitales/Detector de aparcamiento/)
 
 - Prácticas utilizando **entradas analógicas**
     1. Próximamente
