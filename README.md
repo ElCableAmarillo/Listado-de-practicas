@@ -48,9 +48,9 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     4. [Detector de aparcamiento](Entradas digitales/Detector de aparcamiento/)
 
 - Prácticas utilizando **entradas analógicas**
-    1. Próximamente
-    2. Próximamente
-    3. Próximamente
+    1. Encendido nocturno
+    2. Led RGB crepuscular
+    3. Servomotor con potenciómetro
     4. Próximamente
 
 
