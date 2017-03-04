@@ -50,8 +50,8 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
 - Prácticas utilizando **entradas analógicas**
     1. Encendido nocturno
     2. Led RGB crepuscular
-    3. Servomotor con potenciómetro
-    4. Próximamente
+    3. Regulador de color con RGB
+    4. Servomotor con potenciómetro
 
 
 
