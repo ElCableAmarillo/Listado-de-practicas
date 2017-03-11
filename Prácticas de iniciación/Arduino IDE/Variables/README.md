@@ -11,7 +11,7 @@ Las variables primitivas que vamos a destacar en Arduino por ser las más utiliz
 
 
 
-#### Ejercicio 1
+### Ejercicio 1
 
 Sumar el valor de dos números y mostrar el resultado por pantalla.
 
@@ -53,8 +53,12 @@ void loop() {
 [Descarga el código para Arduino](Ejercicio1/Ejercicio1.ino)
 
 
+<br />
+=============
+<br />
 
-#### Ejercicio 2
+
+### Ejercicio 2
 
 Realizar la siguiente operación matemática: 2 + 3  ( 5 x 2 )
 
@@ -100,8 +104,12 @@ void loop() {
 [Descarga el código para Arduino](Ejercicio2/Ejercicio2.ino)
 
 
+<br />
+=============
+<br />
 
-#### Ejercicio 3
+
+### Ejercicio 3
 
 Multiplicar el valor de PI por 5.
 
@@ -143,8 +151,12 @@ void loop() {
 [Descarga el código para Arduino](Ejercicio3/Ejercicio3.ino)
 
 
+<br />
+=============
+<br />
 
-#### Ejercicio 4
+
+### Ejercicio 4
 
 Calcular el valor de una circunferencia de radio 7.
 
@@ -186,8 +198,12 @@ void loop() {
 [Descarga el código para Arduino](Ejercicio4/Ejercicio4.ino)
 
 
+<br />
+=============
+<br />
 
-#### Ejercicio 5
+
+### Ejercicio 5
 
 Elegir un valor aleatorio entre 0 y 255.
 
