@@ -10,13 +10,20 @@
 
 ### Prácticas de iniciación
 
-En este apartado encontrarás prácticas de iniciación a la programación y electrónica utilizando solamente el lenguaje de programación por bloques con **mBlock**. 
+En este apartado encontrarás prácticas de iniciación a la programación a través de lenguajes de programación por bloques y lenguajes de programación en modo texto. 
 
-- Prácticas utilizando **salidas digitales y analógicas**
-    1. [Detectando colores](Prácticas de iniciación/Detectando colores/)
-    2. [Detectando colores con RGB](Prácticas de iniciación/Detectando colores con RGB/)
-    3. [Juego de Arkanoid](Prácticas de iniciación/Juego de Arkanoid/)
-    4. [Brújula con servo](Prácticas de iniciación/Brújula con servo/)
+- Prácticas de programación y electrónica con **mBlock**
+    1. [Detectando colores](Prácticas de iniciación/mBlock/Detectando colores/)
+    2. [Detectando colores con RGB](Prácticas de iniciación/mBlock/Detectando colores con RGB/)
+    3. [Juego de Arkanoid](Prácticas de iniciación/mBlock/Juego de Arkanoid/)
+    4. [Brújula con servo](Prácticas de iniciación/mBlock/Brújula con servo/)
+    
+- Prácticas de introducción a la programación en **Arduino IDE**
+    1. Variables
+    2. Condiciones
+    3. Bucles
+    4. Funciones
+
 
 
 <br />
@@ -25,7 +32,7 @@ En este apartado encontrarás prácticas de iniciación a la programación y ele
 
 
 
-### Prácticas propuestas
+### Prácticas de programación y electrónica
 
 En este apartado encontrarás las prácticas de **programación y electrónica** para utilizar en el aula de tu centro utilizando diferentes lenguajes de programación por bloques y en modo texto. Dentro de cada práctica encontrarás el material necesario para llevarla a cabo con tus alumnos. El proyecto contiene las siguientes prácticas ordenadas según complejidad:
 
@@ -77,6 +84,8 @@ A continuación, mostramos las prácticas propuestas para realizar por los docen
 - Activar movimiento del servomotor mediante interruptor
 - Distancias mediante diodos led (sensor ultrasonido)
 - Simulación de diodos Led con diodo RGB
+
+
 
 ***
 
