@@ -18,11 +18,11 @@ if(condición){
 }
 ```
 
-- a == b     a y b son iguales
-- a > b      a es mayor que b
-- a < b      a es menor que b
-- a >= b     a es mayor o igual que b
-- a <= b     a es menor o igual que b
+- **a == b**     a y b son iguales
+- **a > b**      a es mayor que b
+- **a < b**      a es menor que b
+- **a >= b**     a es mayor o igual que b
+- **a <= b**     a es menor o igual que b
 
 
 
@@ -238,7 +238,7 @@ Dado 5 números decir cual es mayor de todos.
 
 ```
 /**
- * Ejercicio 4
+ * Ejercicio 5
  * 
  * Dado 5 números decir cual es mayor de todos.
  * 
