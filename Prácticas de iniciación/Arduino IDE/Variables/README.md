@@ -4,6 +4,7 @@ Las variables primitivas que vamos a destacar en Arduino por ser las más utiliz
 
 - [Int](https://www.arduino.cc/en/Reference/Int) para almacenar números enteros
 - [Float](https://www.arduino.cc/en/Reference/Float) para almacenar números en coma flotante
+- [Boolean](https://www.arduino.cc/en/Reference/Boolean) para almacenar booleanos
 
 
 
