@@ -39,7 +39,7 @@ Para llevar a cabo la práctica, vamos a necesitar los siguientes materiales:
 
 Antes de ponernos a desarrollar la práctica, conviene realizar un diagrama de flujo para entender la lógica de la programación.
 
-![Diagrama de flujo](Diagramade-flujo.png)
+![Diagrama de flujo](Diagrama-de-flujo.png)
 
 [Descarga el diagrama de flujo para imprimir](Diagrama-de-flujo.html)
 
