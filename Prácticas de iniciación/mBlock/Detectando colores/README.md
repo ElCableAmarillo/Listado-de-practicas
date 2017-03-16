@@ -26,7 +26,9 @@ Para llevar a cabo la práctica, vamos a necesitar los siguientes materiales:
 
 
 <br />
+
 =============
+
 <br />
 
 
@@ -35,12 +37,14 @@ Para llevar a cabo la práctica, vamos a necesitar los siguientes materiales:
 
 El siguiente paso será conectar los diferentes componentes sobre la placa de prototipado siguiendo el esquema eléctrico.
 
-![Esquema eléctrico](Esquema eléctrico.png)
+![Esquema eléctrico](Esquema-eléctrico.png)
 
 
 
 <br />
+
 =============
+
 <br />
 
 
@@ -49,7 +53,7 @@ El siguiente paso será conectar los diferentes componentes sobre la placa de pr
 
 La programación de este videojuego se puede observar en la siguiente imagen.
 
-![Programación en mBlock](Programación mBlock.png)
+![Programación en mBlock](Programación-mBlock.png)
 
 [Descarga el código para mBlock](mBlock.sb2)
 
