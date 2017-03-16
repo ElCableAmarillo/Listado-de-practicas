@@ -26,9 +26,7 @@ Para llevar a cabo la práctica, vamos a necesitar los siguientes materiales:
 
 
 <br />
-
-=============
-
+<hr>
 <br />
 
 
@@ -42,9 +40,7 @@ El siguiente paso será conectar los diferentes componentes sobre la placa de pr
 
 
 <br />
-
-=============
-
+<hr>
 <br />
 
 
