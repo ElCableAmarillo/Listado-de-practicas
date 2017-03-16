@@ -29,7 +29,7 @@ Para llevar a cabo la práctica, vamos a necesitar los siguientes materiales:
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -43,7 +43,7 @@ En este caso vamos a representar el diagrama de flujo siguiendo la partitura de 
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -59,14 +59,14 @@ Como se puede observar en la siguiente tabla no vamos a necesitar ningún tipo d
 
 El siguiente paso será conectar los diferentes componentes sobre la placa de prototipado siguiendo el esquema eléctrico.
 
-![Esquema eléctrico](Esquema eléctrico.png)
+![Esquema eléctrico](Esquema-eléctrico.png)
 
-[Descarga el esquema eléctrico para Fritzing](Esquema eléctrico.fzz)
+[Descarga el esquema eléctrico para Fritzing](Esquema-eléctrico.fzz)
 
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -77,14 +77,14 @@ Fijándonos en el diagrama de flujo programamos la práctica mediante lenguaje d
 
 Podrás observar el gran parecido que se tiene con el diagrama de flujo.
 
-![Programación en mBlock](Programación mBlock.png)
+![Programación en mBlock](Programación-mBlock.png)
 
 [Descarga el código para mBlock](mBlock.sb2)
 
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -96,7 +96,7 @@ Esta práctica no puede realizarse en S4A por no disponer de la función TONE de
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -178,7 +178,7 @@ void loop() {
 
 
 <br />
-=============
+<hr>
 <br />
 
 
