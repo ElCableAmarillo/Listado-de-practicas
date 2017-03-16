@@ -31,7 +31,7 @@ Para llevar a cabo la práctica, vamos a necesitar los siguientes materiales:
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -40,14 +40,14 @@ Para llevar a cabo la práctica, vamos a necesitar los siguientes materiales:
 
 Antes de ponernos a desarrollar la práctica, conviene realizar un diagrama de flujo para entender la lógica de la programación.
 
-![Diagrama de flujo](Diagrama de flujo.png)
+![Diagrama de flujo](Diagrama-de-flujo.png)
 
-[Descarga el diagrama de flujo para imprimir](Diagrama de flujo.html)
+[Descarga el diagrama de flujo para imprimir](Diagrama-de-flujo.html)
 
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -96,14 +96,14 @@ Por otro lado, el potenciómetro a utilizar abarca una resistencia de 0Ω a 10K�
 
 El siguiente paso será conectar los diferentes componentes sobre la placa de prototipado siguiendo el esquema eléctrico.
 
-![Esquema eléctrico](Esquema eléctrico.png)
+![Esquema eléctrico](Esquema-eléctrico.png)
 
-[Descarga el esquema eléctrico para Fritzing](Esquema eléctrico.fzz)
+[Descarga el esquema eléctrico para Fritzing](Esquema-eléctrico.fzz)
 
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -114,14 +114,14 @@ Fijándonos en el diagrama de flujo programamos la práctica mediante lenguaje d
 
 Podrás observar el gran parecido que se tiene con el diagrama de flujo.
 
-![Programación en mBlock](Programación mBlock.png)
+![Programación en mBlock](Programación-mBlock.png)
 
 [Descarga el código para mBlock](mBlock.sb2)
 
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -132,14 +132,14 @@ Fijándonos en el diagrama de flujo programamos la práctica mediante lenguaje d
 
 Podrás observar el gran parecido que se tiene con el diagrama de flujo.
 
-![Programación en S4A](Programación S4A.png)
+![Programación en S4A](Programación-S4A.png)
 
 [Descarga el código para S4A](S4A.sb)
 
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -197,7 +197,7 @@ void loop() {
 
 
 <br />
-=============
+<hr>
 <br />
 
 
