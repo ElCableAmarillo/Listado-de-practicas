@@ -30,7 +30,7 @@ Para llevar a cabo la práctica, vamos a necesitar los siguientes materiales:
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -168,7 +168,7 @@ void loop() {
 
 
 <br />
-=============
+<hr>
 <br />
 
 
