@@ -22,7 +22,7 @@ En este apartado encontrarás prácticas de iniciación a la programación a tra
     1. [Variables](Prácticas de iniciación/Arduino IDE/Variables)
     2. [Condiciones](Prácticas de iniciación/Arduino IDE/Condiciones)
     3. [Bucles](Prácticas de iniciación/Arduino IDE/Bucles)
-    4. Avanzadas
+    4. [Avanzadas](Prácticas de iniciación/Arduino IDE/Avanzadas)
 
 
 
