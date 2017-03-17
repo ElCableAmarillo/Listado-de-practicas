@@ -27,7 +27,7 @@ En este apartado encontrarás prácticas de iniciación a la programación a tra
 
 
 <br />
-=============
+<hr>
 <br />
 
 
@@ -37,10 +37,10 @@ En este apartado encontrarás prácticas de iniciación a la programación a tra
 En este apartado encontrarás las prácticas de **programación y electrónica** para utilizar en el aula de tu centro utilizando diferentes lenguajes de programación por bloques y en modo texto. Dentro de cada práctica encontrarás el material necesario para llevarla a cabo con tus alumnos. El proyecto contiene las siguientes prácticas ordenadas según complejidad:
 
 - Prácticas utilizando **salidas digitales**
-    1. [Luz intermitente](Salidas digitales/Luz intermitente/)
-    2. [Luz intermitente alterna](Salidas digitales/Luz intermitente alterna/)
-    3. [Semáforo simple](Salidas digitales/Semáforo simple/)
-    4. [Semáforo para invidentes](Salidas digitales/Semáforo para invidentes/)
+    1. [Luz intermitente](Salidas-digitales/Luz-intermitente/)
+    2. [Luz intermitente alterna](Salidas-digitales/Luz-intermitente-alterna/)
+    3. [Semáforo simple](Salidas-digitales/Semáforo-simple/)
+    4. [Semáforo para invidentes](Salidas-digitales/Semáforo-para-invidentes/)
     
 - Prácticas utilizando **salidas analógicas**
     1. [Movimiento de un servomotor](Salidas analógicas/Movimiento de un servomotor/)
