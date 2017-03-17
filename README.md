@@ -63,7 +63,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
 
 
 <br />
-=============
+<hr>
 <br />
 
 
