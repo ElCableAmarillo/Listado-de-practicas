@@ -43,10 +43,10 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     4. [Semáforo para invidentes](Salidas-digitales/Semáforo-para-invidentes/)
     
 - Prácticas utilizando **salidas analógicas**
-    1. [Movimiento de un servomotor](Salidas analógicas/Movimiento de un servomotor/)
-    2. [Led RGB](Salidas analógicas/Led RGB/)
-    3. [Luces de navidad](Salidas analógicas/Luces de navidad/)
-    4. [La Guerra de las Galaxias](Salidas analógicas/La Guerra de las Galaxias/)
+    1. [Movimiento de un servomotor](Salidas-analógicas/Movimiento-de-un-servomotor/)
+    2. [Led RGB](Salidas-analógicas/Led-RGB/)
+    3. [Luces de navidad](Salidas-analógicas/Luces-de-navidad/)
+    4. [La Guerra de las Galaxias](Salidas-analógicas/La-Guerra-de-las-Galaxias/)
 
 - Prácticas utilizando **entradas digitales**
     1. [Pulsador simple](Entradas digitales/Pulsador simple/)
