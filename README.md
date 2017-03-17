@@ -13,10 +13,10 @@
 En este apartado encontrarás prácticas de iniciación a la programación a través de lenguajes de programación por bloques y lenguajes de programación en modo texto. 
 
 - Prácticas de programación y electrónica con **mBlock**
-    1. [Detectando colores](Prácticas de iniciación/mBlock/Detectando colores/)
-    2. [Detectando colores con RGB](Prácticas de iniciación/mBlock/Detectando colores con RGB/)
-    3. [Juego de Arkanoid](Prácticas de iniciación/mBlock/Juego de Arkanoid/)
-    4. [Brújula con servo](Prácticas de iniciación/mBlock/Brújula con servo/)
+    1. [Detectando colores](Prácticas-de-iniciación/mBlock/Detectando-colores/)
+    2. [Detectando colores con RGB](Prácticas-de-iniciación/mBlock/Detectando-colores-con-RGB/)
+    3. [Juego de Arkanoid](Prácticas-de-iniciación/mBlock/Juego-de-Arkanoid/)
+    4. [Brújula con servo](Prácticas-de-iniciación/mBlock/Brújula-con-servo/)
     
 - Prácticas de introducción a la programación en **Arduino IDE**
     1. [Variables](Prácticas de iniciación/Arduino IDE/Variables)
