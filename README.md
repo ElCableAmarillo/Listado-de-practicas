@@ -19,10 +19,10 @@ En este apartado encontrarás prácticas de iniciación a la programación a tra
     4. [Brújula con servo](Prácticas-de-iniciación/mBlock/Brújula-con-servo/)
     
 - Prácticas de introducción a la programación en **Arduino IDE**
-    1. [Variables](Prácticas de iniciación/Arduino IDE/Variables)
-    2. [Condiciones](Prácticas de iniciación/Arduino IDE/Condiciones)
-    3. [Bucles](Prácticas de iniciación/Arduino IDE/Bucles)
-    4. [Avanzadas](Prácticas de iniciación/Arduino IDE/Avanzadas)
+    1. [Variables](Prácticas-de-iniciación/Arduino-IDE/Variables)
+    2. [Condiciones](Prácticas-de-iniciación/Arduino-IDE/Condiciones)
+    3. [Bucles](Prácticas-de-iniciación/Arduino-IDE/Bucles)
+    4. [Avanzadas](Prácticas-de-iniciación/Arduino-IDE/Avanzadas)
 
 
 
