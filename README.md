@@ -77,7 +77,6 @@ A continuación, mostramos las prácticas propuestas para realizar por los docen
 - Código Morse SOS (utilizando led o zumbador)
 - Conversor decimal a binario (dado un número representarlo con leds)
 - Arcoiris (utilizando 3 diodos led RGB)
-- Contador de posiciones utilizando un servo (contador con diodos Led)
 - Frecuencias aleatorias en zumbador y diodo Led blanco
 - Luces de feria (utilizando al menos 9 diodos Led)
 - Cambio de colores del RGB (mediante sensor de ultrasonidos)
