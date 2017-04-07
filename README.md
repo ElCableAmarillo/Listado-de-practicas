@@ -82,7 +82,6 @@ A continuación, mostramos las prácticas propuestas para realizar por los docen
 - Cambio de colores del RGB (mediante sensor de ultrasonidos)
 - Activar movimiento del servomotor mediante interruptor
 - Distancias mediante diodos led (sensor ultrasonido)
-- Simulación de diodos Led con diodo RGB
 
 
 
