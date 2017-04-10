@@ -70,7 +70,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
 
 ### Prácticas propuestas a los docentes
 
-A continuación, mostramos las prácticas propuestas para realizar por los docentes del programa educativo El Cable Amarillo (las cuales aparecerán reflejadas al finalizar la formación presencial a finales de Abril de 2017).
+A continuación, mostramos las prácticas propuestas para realizar por los docentes del programa educativo El Cable Amarillo (las cuales aparecerán reflejadas próximamente).
 
 - Cruce de semáforo completo (con aviso para invidentes)
 - Efecto de luces del coche fantástico (utilizando al menos 7 leds)
