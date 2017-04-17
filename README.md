@@ -70,18 +70,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
 
 ### Prácticas propuestas a los docentes
 
-A continuación, mostramos las prácticas propuestas para realizar por los docentes del programa educativo El Cable Amarillo (las cuales aparecerán reflejadas próximamente).
 
-- Cruce de semáforo completo (con aviso para invidentes)
-- Efecto de luces del coche fantástico (utilizando al menos 7 leds)
-- Código Morse SOS (utilizando led o zumbador)
-- Conversor decimal a binario (dado un número representarlo con leds)
-- Arcoiris (utilizando 3 diodos led RGB)
-- Frecuencias aleatorias en zumbador y diodo Led blanco
-- Luces de feria (utilizando al menos 9 diodos Led)
-- Cambio de colores del RGB (mediante sensor de ultrasonidos)
-- Activar movimiento del servomotor mediante interruptor
-- Distancias mediante diodos led (sensor ultrasonido)
 
 
 
