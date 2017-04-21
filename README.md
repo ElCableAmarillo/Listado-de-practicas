@@ -71,7 +71,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
 ### Prácticas realizadas por los docentes
 
 - Realizadas en el curso de Lorca
-    1. [Puerta Garaje: Isabel Torroglosa, Pedro García](Prácticas-docentes/Lorca/Puerta Garaje)
+    1. [Puerta Garaje: Isabel Torroglosa, Pedro García](Prácticas-docentes/Lorca/PuertaGaraje)
 
 
 
