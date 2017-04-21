@@ -17,8 +17,6 @@ Puerta de garaje corredera con apertura y cierre por luz. En función de la cant
 - [Video](PuertaGaraje.mov)
 
 
-[Resumen](https://github.com/ElCableAmarillo/Listado-de-practicas/tree/master/Pr%C3%A1cticas-docentes/Lorca/PuertaGaraje/PuertaGaraje.pdf)
-
 <br>
 
 
