@@ -4,8 +4,8 @@ Puerta de garaje corredera con apertura y cierre por luz. En función de la cant
 
 
 #### Autores de la práctica:
-- Isabel Torroglosa García
-- Pedro García González
+    1. Isabel Torroglosa García
+    2. Pedro García González
 
 
 <br />
