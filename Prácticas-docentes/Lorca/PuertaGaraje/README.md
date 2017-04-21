@@ -10,8 +10,6 @@ Puerta de garaje corredera con apertura y cierre por luz. En función de la cant
 
 <br />
 <hr>
-<br />
-
 
 ### Contenido
 
