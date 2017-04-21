@@ -5,6 +5,8 @@ Práctica realizada por:
 - Pedro García González
 
 
+[embed]PuertaGaraje.pdf[/embed]
+
 
 ***
 
