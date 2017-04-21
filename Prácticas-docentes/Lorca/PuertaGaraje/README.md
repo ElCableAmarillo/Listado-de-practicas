@@ -1,6 +1,8 @@
 # Puerta Garaje
 
-Práctica realizada por:
+Puerta de garaje corredera con paertura y cierre por luz.
+
+Realizada por:
 - Isabel Torroglosa García
 - Pedro García González
 
