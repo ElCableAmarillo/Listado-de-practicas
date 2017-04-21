@@ -1,4 +1,4 @@
-# Puerta Garaje
+# Sensor de Aparcamiento
 
 Sensor de aparcamiento por ultrasonidos pero con la peculiaridad de que cuando te acercas a una distancia determinada se enciende un LED amarillo y si pasas de esa distancia se enciende un LED rojo, además del sonido del zumbador.
 

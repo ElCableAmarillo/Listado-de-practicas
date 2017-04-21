@@ -72,7 +72,8 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
 
 - Realizadas en el curso de Lorca
     1. [Puerta Garaje](Prácticas-docentes/Lorca/PuertaGaraje)
-    1. [Sensor de Aparcamiento](Prácticas-docentes/Lorca/SensorAparcamiento)
+    2. [Sensor de Aparcamiento](Prácticas-docentes/Lorca/SensorAparcamiento)
+    3. [Semáforo con Peatones](Prácticas-docentes/Lorca/SemáforoConPeatones)
 
 
 ***
