@@ -15,7 +15,7 @@ Laberinto dirigido mediante un potenciómetro externo, el laberinto gira en la d
 - [Esquemático](Esquemático.jpg)
 - [Protoboard](Protoboard.jpg)
 - [Programación](Programación.ino)
-- [Video](Video.mov)
+- [Video](Video.m4v)
 
 
 <br>
