@@ -74,6 +74,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     1. [Puerta Garaje](Prácticas-docentes/Lorca/PuertaGaraje)
     2. [Sensor de Aparcamiento](Prácticas-docentes/Lorca/SensorAparcamiento)
     3. [Semáforo con Peatones](Prácticas-docentes/Lorca/SemáforoConPeatones)
+    4. [Semáforo con Barrera](Prácticas-docentes/Lorca/SemáforoConBarrera)
 
 
 ***
