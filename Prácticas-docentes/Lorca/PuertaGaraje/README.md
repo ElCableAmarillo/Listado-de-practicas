@@ -3,7 +3,7 @@
 Puerta de garaje corredera con apertura y cierre por luz. En función de la cantidad de luz recibida tendrá un ángulo de apertura de forma que con iluminación total la apertura será máxima y en oscuridad la puerta se cerrará.
 
 
-#### Autores de la práctica:
+### Autores de la práctica:
     1. Isabel Torroglosa García
     2. Pedro García González
 
@@ -16,7 +16,8 @@ Puerta de garaje corredera con apertura y cierre por luz. En función de la cant
 - ![Programación](PuertaGaraje.sb2)
 - ![Video](PuertaGaraje.mov)
 
-- [![Resumen](PuertaGaraje.pdf)](PuertaGaraje.pdf)
+
+<iframe src="http://docs.google.com/viewer?url=PuertaGaraje.pdf&embedded=true" width="100%" height="780" style="border: none;"></iframe>
 
 
 <br>
