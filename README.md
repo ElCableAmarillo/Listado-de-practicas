@@ -79,6 +79,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     6. [Medidor capacidad depósito](Prácticas-docentes/Lorca/MedidorCapacidadDepósito)
     7. [Barrera de parking](Prácticas-docentes/Lorca/BarreraDeParking)
     8. [Laberinto](Prácticas-docentes/Lorca/Laberinto)
+    9. [Coche evita obstáculos](Prácticas-docentes/Lorca/CocheEvitaObstáculos)
 
 
 ***
