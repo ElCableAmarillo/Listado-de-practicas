@@ -82,6 +82,11 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     9. [Coche evita obstáculos](Prácticas-docentes/Lorca/CocheEvitaObstáculos)
     10. [Puerta garaje con puente H](Prácticas-docentes/Lorca/PuertaGarajePuenteH)
 
+- Realizadas en el curso de Cartagena
+
+- Realizadas en el curso de Murcia
+
+
 
 ***
 
