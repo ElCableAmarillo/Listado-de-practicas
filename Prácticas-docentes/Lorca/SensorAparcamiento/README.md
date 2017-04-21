@@ -12,7 +12,7 @@ Sensor de aparcamiento por ultrasonidos pero con la peculiaridad de que cuando t
 - [DiagramaDeFlujo](DiagramaDeFlujo.pdf)
 - [Materiales](Materiales.pdf)
 - [Fritzing](Fritzing.fzz)
-- [Programación](PuertaGaraje.sb2)
+- [Programación](Programación.sb2)
 
 
 <br>
