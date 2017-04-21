@@ -7,8 +7,6 @@ Puerta de garaje corredera con apertura y cierre por luz. En función de la cant
     1. Isabel Torroglosa García
     2. Pedro García González
 
-
-<br />
 <hr>
 
 ### Contenido
@@ -17,6 +15,8 @@ Puerta de garaje corredera con apertura y cierre por luz. En función de la cant
 - ![Fritzing](PuertaGaraje.fzz)
 - ![Programación](PuertaGaraje.sb2)
 - ![Video](PuertaGaraje.mov)
+
+- [![Resumen](PuertaGaraje.pdf)](PuertaGaraje.pdf)
 
 
 <br>
