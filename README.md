@@ -68,14 +68,15 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
 
 
 
-### Prácticas realizadas por los docentes
+### Prácticas de programación y robótica realizadas por los docentes
 
 - Realizadas en el curso de Lorca
-    1. [Puerta Garaje](Prácticas-docentes/Lorca/PuertaGaraje)
-    2. [Sensor de Aparcamiento](Prácticas-docentes/Lorca/SensorAparcamiento)
-    3. [Semáforo con Peatones](Prácticas-docentes/Lorca/SemáforoConPeatones)
-    4. [Semáforo con Barrera](Prácticas-docentes/Lorca/SemáforoConBarrera)
+    1. [Puerta garaje](Prácticas-docentes/Lorca/PuertaGaraje)
+    2. [Sensor de aparcamiento](Prácticas-docentes/Lorca/SensorAparcamiento)
+    3. [Semáforo con peatones](Prácticas-docentes/Lorca/SemáforoConPeatones)
+    4. [Semáforo con barrera](Prácticas-docentes/Lorca/SemáforoConBarrera)
     5. [Cuadratura del círculo](Prácticas-docentes/Lorca/CuadraturaDelCírculo)
+    6. [Medidor capacidad depósito](Prácticas-docentes/Lorca/MedidorCapacidadDepósito)
 
 
 ***
