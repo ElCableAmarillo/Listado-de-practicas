@@ -80,6 +80,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     7. [Barrera de parking](Prácticas-docentes/Lorca/BarreraDeParking)
     8. [Laberinto](Prácticas-docentes/Lorca/Laberinto)
     9. [Coche evita obstáculos](Prácticas-docentes/Lorca/CocheEvitaObstáculos)
+    10. [Puerta garaje con puente H](Prácticas-docentes/Lorca/PuertaGarajePuenteH)
 
 
 ***

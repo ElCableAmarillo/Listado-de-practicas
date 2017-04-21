@@ -1,0 +1,27 @@
+# Puerta Garaje con Puente H
+
+Puerta de garaje mecanizada mediante control manual de un interruptor inversor de giro.
+
+
+### Autores de la práctica:
+    1. Miguel Ángel Gracia Ruiz
+    2. Marcos Sánchez Pérez
+
+<hr>
+
+### Contenido
+
+- [Resumen](Resumen.pdf)
+- [Fritzing](Fritzing.fzz)
+- [Programación](Programación.sb2)
+- [Video](Video.mov)
+
+
+<br>
+
+
+***
+
+#### Licencia
+
+<img src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /> Esta obra se distribuye bajo licencia [Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.es_ES).
