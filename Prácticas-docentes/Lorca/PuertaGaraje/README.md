@@ -5,7 +5,15 @@ Práctica realizada por:
 - Pedro García González
 
 
-![Práctica](PuertaGaraje.pdf)
+### Contenido
+
+- ![Resumen](PuertaGaraje.pdf)
+- ![Fritzing](PuertaGaraje.fzz)
+- ![Programación](PuertaGaraje.sb2)
+- ![Video](PuertaGaraje.mov)
+
+
+<br>
 
 
 ***
