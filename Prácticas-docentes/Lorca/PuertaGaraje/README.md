@@ -1,10 +1,16 @@
 # Puerta Garaje
 
-Puerta de garaje corredera con paertura y cierre por luz.
+Puerta de garaje corredera con apertura y cierre por luz. En función de la cantidad de luz recibida tendrá un ángulo de apertura de forma que con iluminación total la apertura será máxima y en oscuridad la puerta se cerrará.
 
-Realizada por:
+
+#### Autores de la práctica:
 - Isabel Torroglosa García
 - Pedro García González
+
+
+<br />
+<hr>
+<br />
 
 
 ### Contenido
