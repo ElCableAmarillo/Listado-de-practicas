@@ -14,7 +14,7 @@ Puerta de garaje mecanizada mediante control manual de un interruptor inversor d
 - [Resumen](Resumen.pdf)
 - [Fritzing](Fritzing.fzz)
 - [Programación](Programación.sb2)
-- [Video](Video.mov)
+- [Video](Video.mp4)
 
 
 <br>
