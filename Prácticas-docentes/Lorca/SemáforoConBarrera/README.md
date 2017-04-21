@@ -13,7 +13,7 @@ Barrera de paso a nivel con semáforo.
 - [Resumen](Resumen.pdf)
 - [Fritzing](Fritzing.fzz)
 - [Programación](Programación.sb2)
-- [Video](Video.mov)
+- [Video](Video.mp4)
 
 
 <br>
