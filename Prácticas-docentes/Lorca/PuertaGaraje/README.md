@@ -11,14 +11,13 @@ Puerta de garaje corredera con apertura y cierre por luz. En función de la cant
 
 ### Contenido
 
-- ![Resumen](PuertaGaraje.pdf)
-- ![Fritzing](PuertaGaraje.fzz)
-- ![Programación](PuertaGaraje.sb2)
-- ![Video](PuertaGaraje.mov)
+- [Resumen](PuertaGaraje.pdf)
+- [Fritzing](PuertaGaraje.fzz)
+- [Programación](PuertaGaraje.sb2)
+- [Video](PuertaGaraje.mov)
 
 
-<iframe src="http://docs.google.com/viewer?url=PuertaGaraje.pdf&embedded=true" width="100%" height="780" style="border: none;"></iframe>
-
+[Resumen](https://github.com/ElCableAmarillo/Listado-de-practicas/tree/master/Pr%C3%A1cticas-docentes/Lorca/PuertaGaraje/PuertaGaraje.pdf)
 
 <br>
 
