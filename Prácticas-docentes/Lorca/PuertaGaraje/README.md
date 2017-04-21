@@ -11,10 +11,10 @@ Puerta de garaje corredera con apertura y cierre por luz. En función de la cant
 
 ### Contenido
 
-- [Resumen](PuertaGaraje.pdf)
-- [Fritzing](PuertaGaraje.fzz)
-- [Programación](PuertaGaraje.sb2)
-- [Video](PuertaGaraje.mov)
+- [Resumen](Resumen.pdf)
+- [Fritzing](Fritzing.fzz)
+- [Programación](Programación.sb2)
+- [Video](Video.mov)
 
 
 <br>
