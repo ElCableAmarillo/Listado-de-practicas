@@ -77,6 +77,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     4. [Semáforo con barrera](Prácticas-docentes/Lorca/SemáforoConBarrera)
     5. [Cuadratura del círculo](Prácticas-docentes/Lorca/CuadraturaDelCírculo)
     6. [Medidor capacidad depósito](Prácticas-docentes/Lorca/MedidorCapacidadDepósito)
+    7. [Barrera de parking](Prácticas-docentes/Lorca/BarreraDeParking)
 
 
 ***
