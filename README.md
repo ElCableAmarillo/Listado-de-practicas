@@ -83,6 +83,9 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     10. [Puerta garaje con puente H](Prácticas-docentes/Lorca/PuertaGarajePuenteH)
 
 - Realizadas en el curso de Cartagena
+    1. [Control Motor L293D](Prácticas-docentes/Cartagena/ControlMotorL293D)
+    
+    
 
 - Realizadas en el curso de Murcia
 
