@@ -106,6 +106,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     3. [Pompero](Prácticas-docentes/Murcia/Pompero)
     4. [LucesFeria](Prácticas-docentes/Murcia/LucesFeria)
     5. [Arcoiris](Prácticas-docentes/Murcia/Arcoiris)
+    5. [SemáforoBarrera](Prácticas-docentes/Murcia/SemáforoBarrera)
 
 
 ***
