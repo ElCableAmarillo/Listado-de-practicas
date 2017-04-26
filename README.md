@@ -91,6 +91,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     6. [Barrera de Tren regulable](Prácticas-docentes/Cartagena/BarreraDeTrenRegulable)
     7. [Servo regulado](Prácticas-docentes/Cartagena/ServoRegulado)
     8. [Control Brazo Robot](Prácticas-docentes/Cartagena/ControlBrazoRobot)
+    9. [Sirena poli definida](Prácticas-docentes/Cartagena/SirenaPoliDefinida)
     
 
 - Realizadas en el curso de Murcia
