@@ -98,6 +98,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     13. [Código Morse](Prácticas-docentes/Cartagena/CódigoMorse)
     14. [Cruce Semáforos](Prácticas-docentes/Cartagena/CruceSemáforos)
     15. [Contador Láser](Prácticas-docentes/Cartagena/ContadorLáser)
+    16. [Regulador Luz Blanca](Prácticas-docentes/Cartagena/ReguladorLuzBlanca)
 
 - Realizadas en el curso de Murcia
 
