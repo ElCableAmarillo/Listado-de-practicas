@@ -117,7 +117,8 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     14. [Sensor de temperatura](Prácticas-docentes/Murcia/SensorTemperatura)
     15. [Coche 5 leds](Prácticas-docentes/Murcia/CocheFantástico)
     16. [Termostato](Prácticas-docentes/Murcia/Termostato)
-    16. [Led coche fantástico](Prácticas-docentes/Murcia/LedCocheFantástico)
+    17. [Led coche fantástico](Prácticas-docentes/Murcia/LedCocheFantástico)
+    18. [Acelerador](Prácticas-docentes/Murcia/Acelerador)
 
 
 ***
