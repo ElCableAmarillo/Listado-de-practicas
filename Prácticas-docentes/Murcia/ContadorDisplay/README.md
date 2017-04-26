@@ -3,7 +3,7 @@
 Cuando se mantiene pulsado el pulsador de botón de la protoboard, el programa hace que el display vaya mostrando de forma ascendente el tiempo acumulado mientras se mantiene pulsado el botón-pulsador (0, 1, 2, 3,…) una vez soltamos el botón cuando nos plazca, el display nos marcará el tiempo acumulado mediante un número que irá desde el cero hasta el nueve. 
 
 ### Autor de la práctica:
-    1. José Antonio gil Martinez
+    1. José Antonio Gil Martinez
 
 <hr>
 
