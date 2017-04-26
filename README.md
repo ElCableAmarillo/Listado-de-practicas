@@ -85,8 +85,9 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
 - Realizadas en el curso de Cartagena
     1. [Control Motor L293D](Prácticas-docentes/Cartagena/ControlMotorL293D)
     2. [Ascensor](Prácticas-docentes/Cartagena/Ascensor)
-    2. [Barrera Parking](Prácticas-docentes/Cartagena/BarreraParking)
-    
+    3. [Barrera Parking](Prácticas-docentes/Cartagena/BarreraParking)
+    4. [Reloj Despertador](Prácticas-docentes/Cartagena/RelojDespertador)
+    5. [Avisador Proximidad](Prácticas-docentes/Cartagena/AvisadorProximidad)
     
     
 
