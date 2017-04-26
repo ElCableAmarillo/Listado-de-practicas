@@ -113,7 +113,8 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     10. [Luces del coche fantástico](Prácticas-docentes/Murcia/LucesCocheFantástico)
     11. [Alarma de proximidad](Prácticas-docentes/Murcia/AlarmaProximidad)
     12. [Barrera](Prácticas-docentes/Murcia/Barrera)
-    12. [Contador con Display](Prácticas-docentes/Murcia/ContadorDisplay)
+    13. [Contador con Display](Prácticas-docentes/Murcia/ContadorDisplay)
+    14. [Sensor de temperatura](Prácticas-docentes/Murcia/SensorTemperatura)
 
 
 ***
