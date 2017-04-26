@@ -92,6 +92,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     7. [Servo regulado](Prácticas-docentes/Cartagena/ServoRegulado)
     8. [Control Brazo Robot](Prácticas-docentes/Cartagena/ControlBrazoRobot)
     9. [Sirena poli definida](Prácticas-docentes/Cartagena/SirenaPoliDefinida)
+    10. [Laberinto con Display](Prácticas-docentes/Cartagena/LaberintoDisplay)
     
 
 - Realizadas en el curso de Murcia
