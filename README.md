@@ -90,6 +90,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     5. [Avisador Proximidad](Prácticas-docentes/Cartagena/AvisadorProximidad)
     6. [Barrera de Tren regulable](Prácticas-docentes/Cartagena/BarreraDeTrenRegulable)
     7. [Servo regulado](Prácticas-docentes/Cartagena/ServoRegulado)
+    8. [Control Brazo Robot](Prácticas-docentes/Cartagena/ControlBrazoRobot)
     
 
 - Realizadas en el curso de Murcia
