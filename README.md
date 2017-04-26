@@ -116,6 +116,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     13. [Contador con Display](Prácticas-docentes/Murcia/ContadorDisplay)
     14. [Sensor de temperatura](Prácticas-docentes/Murcia/SensorTemperatura)
     15. [Coche 5 leds](Prácticas-docentes/Murcia/CocheFantástico)
+    16. [Termostato](Prácticas-docentes/Murcia/Termostato)
 
 
 ***
