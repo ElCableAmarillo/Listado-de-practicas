@@ -109,6 +109,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     6. [Semáforo con barrera](Prácticas-docentes/Murcia/SemáforoBarrera)
     7. [Brazo robótico](Prácticas-docentes/Murcia/BrazoRobótico)
     8. [Sabika5Leds](Prácticas-docentes/Murcia/Sabika5Leds)
+    9. [Ascensor](Prácticas-docentes/Murcia/Ascensor)
 
 
 ***
