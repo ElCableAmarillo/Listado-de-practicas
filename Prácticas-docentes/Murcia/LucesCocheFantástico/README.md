@@ -28,7 +28,7 @@ Para llevar a cabo la práctica, vamos a necesitar los siguientes materiales:
 
 ### Video resumen
 
-[![Video resumen](https://i.ytimg.com/vi_webp/E9FlpMp48qM/maxresdefault.webp)](https://youtu.be/fEuIdVsC-P4)
+[![Video resumen](https://i.ytimg.com/vi_webp/fEuIdVsC-P4/maxresdefault.webp)](https://youtu.be/fEuIdVsC-P4)
 
 
 
