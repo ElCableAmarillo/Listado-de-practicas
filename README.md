@@ -102,6 +102,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
 
 - Realizadas en el curso de Murcia
     1. [Órgano Digital](Prácticas-docentes/Murcia/ÓrganoDigital)
+    2. [diana](Prácticas-docentes/Murcia/Diana)
 
 
 ***
