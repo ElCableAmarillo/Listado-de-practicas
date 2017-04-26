@@ -27,12 +27,6 @@ En esta práctica vamos a crear una alarma de proximidad, si el sensor no detect
 - [Video](Video.MOV)
 
 
-### Video resumen
-
-[![Video resumen](https://i.ytimg.com/vi_webp/fEuIdVsC-P4/maxresdefault.webp)](https://youtu.be/fEuIdVsC-P4)
-
-
-
 <br>
 
 
