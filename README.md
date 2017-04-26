@@ -88,6 +88,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     3. [Barrera Parking](Prácticas-docentes/Cartagena/BarreraParking)
     4. [Reloj Despertador](Prácticas-docentes/Cartagena/RelojDespertador)
     5. [Avisador Proximidad](Prácticas-docentes/Cartagena/AvisadorProximidad)
+    5. [Barrera de Tren regulable](Prácticas-docentes/Cartagena/BarreraDeTrenRegulable)
     
     
 
