@@ -112,6 +112,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     9. [Ascensor](Prácticas-docentes/Murcia/Ascensor)
     10. [Luces del coche fantástico](Prácticas-docentes/Murcia/LucesCocheFantástico)
     11. [Alarma de proximidad](Prácticas-docentes/Murcia/AlarmaProximidad)
+    12. [Barrera](Prácticas-docentes/Murcia/Barrera)
 
 
 ***
