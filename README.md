@@ -120,6 +120,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     17. [Led coche fantástico](Prácticas-docentes/Murcia/LedCocheFantástico)
     18. [Acelerador](Prácticas-docentes/Murcia/Acelerador)
     19. [Seguidor solar](Prácticas-docentes/Murcia/Seguidorsolar)
+    19. [Coche con luces](Prácticas-docentes/Murcia/CocheConLuces)
 
 
 ***
