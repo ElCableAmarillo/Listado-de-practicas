@@ -2,9 +2,8 @@
 
 En esta práctica vamos a crear una alarma de proximidad, si el sensor no detecta nada a una distancia menor de 5 cm estará encendido el led verde, y si alguien se acerca a una distancia menor de 5 cm se encenderá un led rojo intermitentemente y un sonido avisando de ello. Ésto no se parará al menos que pulsemos la tecla espacio
 
-### Autores de la práctica:
-    1. Alfonso Luis Fernandez Bernal
-    2. Pedro serrano Gómez
+### Autor de la práctica:
+    1. Ginés García Toral
 
 <hr>
 
