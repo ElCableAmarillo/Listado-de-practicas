@@ -95,6 +95,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     10. [Laberinto con Display](Prácticas-docentes/Cartagena/LaberintoDisplay)
     11. [Lector Codigo Resistencias](Prácticas-docentes/Cartagena/LectorCodigoResistencias)
     12. [Invernadero](Prácticas-docentes/Cartagena/Invernadero)
+    13. [Código Morse](Prácticas-docentes/Cartagena/CódigoMorse)
 
 - Realizadas en el curso de Murcia
 
