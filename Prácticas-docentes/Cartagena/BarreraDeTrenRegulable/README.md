@@ -2,8 +2,9 @@
 
 Cuando la barrera está bajada y mientras está subiendo, está encendida una luz roja que prohíbe el paso. Cuando la barrera está subida, se enciende la luz verde que permite el paso.
 
-### Autor de la práctica:
+### Autores de la práctica:
     1. Quiteria Alfonso Paredes
+    2. José García García
 
 <hr>
 
