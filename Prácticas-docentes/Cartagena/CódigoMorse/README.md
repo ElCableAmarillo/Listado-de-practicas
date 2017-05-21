@@ -3,7 +3,7 @@
 En esta práctica vamos a emitir una señal de socorro (SOS) en código Morse con un zumbador y al mismo tiempo se ha añadido una señal luminosa con un diodo LED rojo.SOS es la señal de socorro más utilizada internacionalmente. Se comenzó a utilizar a principios del siglo XX. Se eligió esta representación debido a que podía ser radiada fácilmente usando el código Morse (el código Morse utiliza pulsos cortos y pulsos largos), con una sucesión de tres pulsos cortos, tres largos y otros tres cortos  ( . . . _ _ _ . . . ). De igual manera, debido a la simpleza de la misma es menos probable que se pierda o malinterprete por interferencias. 
 
 ### Autor de la práctica:
-    1. María Soledad Alcaraz Albadalejo
+    1. María Soledad Alcaraz Albaladejo
 
 <hr>
 
