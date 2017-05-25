@@ -122,7 +122,7 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     19. [Seguidor solar](Prácticas-docentes/Murcia/Seguidorsolar)
     20. [Coche con luces](Prácticas-docentes/Murcia/CocheConLuces)
     21. [Luces de Feria](Prácticas-docentes/Murcia/LucesDeFeria)
-    22. [Control de acceso](Prácticas-docentes/Murcia/ControlAcceso)
+    22. [Control de accesos](Prácticas-docentes/Murcia/ControlAcceso)
 
 
 ***
