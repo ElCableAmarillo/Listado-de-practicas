@@ -3,7 +3,7 @@
 En esta práctica vamos a simular el efecto de las luces del coche fantástico con 7 leds , y un potenciómetro que servirá para controlar la velocidad de encendido de los leds.
 
 ### Autores de la práctica:
-    1. Alfonso Luis Fernandez Bernal
+    1. Alfonso Lucas Fernandez Bernal
     2. Pedro serrano Gómez
 
 <hr>
