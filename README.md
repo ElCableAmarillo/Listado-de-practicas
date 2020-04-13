@@ -61,72 +61,9 @@ En este apartado encontrarás las prácticas de **programación y electrónica**
     4. [Servomotor con potenciómetro](Entradas-analógicas/Servomotor-con-potenciómetro)
 
 
-
 <br />
 <hr>
 <br />
-
-
-
-### Prácticas de programación y robótica realizadas por los docentes
-
-- Realizadas en el curso de Lorca
-    1. [Puerta garaje](Prácticas-docentes/Lorca/PuertaGaraje)
-    2. [Sensor de aparcamiento](Prácticas-docentes/Lorca/SensorAparcamiento)
-    3. [Semáforo con peatones](Prácticas-docentes/Lorca/SemáforoConPeatones)
-    4. [Semáforo con barrera](Prácticas-docentes/Lorca/SemáforoConBarrera)
-    5. [Cuadratura del círculo](Prácticas-docentes/Lorca/CuadraturaDelCírculo)
-    6. [Medidor capacidad depósito](Prácticas-docentes/Lorca/MedidorCapacidadDepósito)
-    7. [Barrera de parking](Prácticas-docentes/Lorca/BarreraDeParking)
-    8. [Laberinto](Prácticas-docentes/Lorca/Laberinto)
-    9. [Coche evita obstáculos](Prácticas-docentes/Lorca/CocheEvitaObstáculos)
-    10. [Puerta garaje con puente H](Prácticas-docentes/Lorca/PuertaGarajePuenteH)
-
-- Realizadas en el curso de Cartagena
-    1. [Control Motor L293D](Prácticas-docentes/Cartagena/ControlMotorL293D)
-    2. [Ascensor](Prácticas-docentes/Cartagena/Ascensor)
-    3. [Barrera Parking](Prácticas-docentes/Cartagena/BarreraParking)
-    4. [Reloj Despertador](Prácticas-docentes/Cartagena/RelojDespertador)
-    5. [Avisador Proximidad](Prácticas-docentes/Cartagena/AvisadorProximidad)
-    6. [Barrera de Tren regulable](Prácticas-docentes/Cartagena/BarreraDeTrenRegulable)
-    7. [Servo regulado](Prácticas-docentes/Cartagena/ServoRegulado)
-    8. [Control Brazo Robot](Prácticas-docentes/Cartagena/ControlBrazoRobot)
-    9. [Sirena poli definida](Prácticas-docentes/Cartagena/SirenaPoliDefinida)
-    10. [Laberinto con Display](Prácticas-docentes/Cartagena/LaberintoDisplay)
-    11. [Lector Codigo Resistencias](Prácticas-docentes/Cartagena/LectorCodigoResistencias)
-    12. [Invernadero](Prácticas-docentes/Cartagena/Invernadero)
-    13. [Código Morse](Prácticas-docentes/Cartagena/CódigoMorse)
-    14. [Cruce Semáforos](Prácticas-docentes/Cartagena/CruceSemáforos)
-    15. [Contador Láser](Prácticas-docentes/Cartagena/ContadorLáser)
-    16. [Regulador Luz Blanca](Prácticas-docentes/Cartagena/ReguladorLuzBlanca)
-
-- Realizadas en el curso de Murcia
-    1. [Órgano Digital](Prácticas-docentes/Murcia/ÓrganoDigital)
-    2. [Diana](Prácticas-docentes/Murcia/Diana)
-    3. [Pompero](Prácticas-docentes/Murcia/Pompero)
-    4. [LucesFeria](Prácticas-docentes/Murcia/LucesFeria)
-    5. [Arcoiris](Prácticas-docentes/Murcia/Arcoiris)
-    6. [Semáforo con barrera](Prácticas-docentes/Murcia/SemáforoBarrera)
-    7. [Brazo robótico](Prácticas-docentes/Murcia/BrazoRobótico)
-    8. [Sabika5Leds](Prácticas-docentes/Murcia/Sabika5Leds)
-    9. [Ascensor](Prácticas-docentes/Murcia/Ascensor)
-    10. [Luces del coche fantástico](Prácticas-docentes/Murcia/LucesCocheFantástico)
-    11. [Alarma de proximidad](Prácticas-docentes/Murcia/AlarmaProximidad)
-    12. [Barrera](Prácticas-docentes/Murcia/Barrera)
-    13. [Contador con Display](Prácticas-docentes/Murcia/ContadorDisplay)
-    14. [Sensor de temperatura](Prácticas-docentes/Murcia/SensorTemperatura)
-    15. [Coche 5 leds](Prácticas-docentes/Murcia/CocheFantástico)
-    16. [Termostato](Prácticas-docentes/Murcia/Termostato)
-    17. [Led coche fantástico](Prácticas-docentes/Murcia/LedCocheFantástico)
-    18. [Acelerador](Prácticas-docentes/Murcia/Acelerador)
-    19. [Seguidor solar](Prácticas-docentes/Murcia/Seguidorsolar)
-    20. [Coche con luces](Prácticas-docentes/Murcia/CocheConLuces)
-    21. [Luces de Feria](Prácticas-docentes/Murcia/LucesDeFeria)
-    22. [Control de accesos](Prácticas-docentes/Murcia/ControlAcceso)
-
-
-***
-
 
 
 #### Licencia
